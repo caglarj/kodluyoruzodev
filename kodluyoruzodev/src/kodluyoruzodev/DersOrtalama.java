@@ -37,6 +37,20 @@ public class DersOrtalama {
 		
 		String str = ortalama >= 60 ? "-> Sinifi Gecti" : "-> Sinifta Kaldi" ;
         System.out.println(str);
+        
+        
+        /*Karşılaştırma Operatörleri
+Java'da Karşılaştırma Operatörleri iki nesnenin birbirleriyle olan durumlarını belirler.
+
+Eşitlik : a == b
+Eşit Değil : a != b
+Büyüktür : a > b
+Küçüktür : a < b
+Büyük Eşittir : a >= b
+Küçük Eşittir : a <= b
+Mantıksal Operatörler
+Java'da Mantıksal Operatörler , nesnelerin veya ifadelerin mantıksal değerlerini yansıtır.
+*/
 	}
 
 }
