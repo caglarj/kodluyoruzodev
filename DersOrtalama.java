@@ -29,9 +29,14 @@ public class DersOrtalama {
 	
 		System.out.println("Muzik ders notunu giriniz : " );
 		muzik = input.nextInt();
+		
+		double ortalama = (mat + fizik + kimya + turkce + tarih + muzik ) / 6.0;
 
-		System.out.println("Derslerin sinav puanlarinin ortalamalari : " + ( mat + fizik + kimya + turkce + tarih + muzik ) / 6 ); 
+		System.out.println("Derslerin sinav puanlarinin ortalamalari : " + ortalama );
 	
+		
+		String str = ortalama >= 60 ? "-> Sinifi Gecti" : "-> Sinifta Kaldi" ;
+        System.out.println(str);
 	}
 
 }
