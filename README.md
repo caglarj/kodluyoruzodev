@@ -1,6 +1,6 @@
 # **Patika.dev Görevleri**
 
-Bu repo [Patika.dev](https://patika.dev) Front-End Eğitimi içerisinde verilen görevler için oluşturulmuştur.
+Bu repo [Patika.dev](https://patika.dev) Back-End Eğitimi içerisinde verilen görevler için oluşturulmuştur.
 
 ## **java code**
 Java Code Learning.
